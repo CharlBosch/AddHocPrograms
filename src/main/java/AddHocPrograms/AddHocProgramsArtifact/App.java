@@ -2,7 +2,7 @@ package AddHocPrograms.AddHocProgramsArtifact;
 
 /**
  * 
- * za.co.discovery.workflow.engines.myengine
+ * 
  * Hello world!
  *
  */
